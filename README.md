@@ -6,9 +6,9 @@
 
 To analyze and compare the performance of different prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across multiple AI platforms (ChatGPT, Gemini, Claude, Copilot) in the task of text summarization.
 
-### REG. NO: 212223060003
+### REG. NO: 21222306284
 
-### NAME: ABINANDHAN G
+### NAME: TARUN G M
 
 ---
 
